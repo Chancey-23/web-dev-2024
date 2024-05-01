@@ -1,0 +1,4 @@
+<h1>About</h1>
+<h4>Hi! I'm Prinket, a freelance digital illustrator! My work mostly revolves around emotional moments, whether joy or sadness or anywhere in between.</h4>
+<p>My journey started differently than most of the artists that I look up to. Most of them say they've been drawing ever since they could pick up a pencil, but such was not the case for me. Yes, I drew when I was younger, but I never thought about it much and I certainly didn't feel very good about it. I never thought of myself as an artist.</p>
+<p>One day, when I was twelve and a half, I decided that I did want to draw. I wanted to be as good as the other people I knew who were artists. So I pulled out an old drawing book I had about animals, and flipped to the chapter all about my favorite four-legged creatures: horses.  </p>

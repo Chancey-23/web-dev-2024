@@ -1,0 +1,57 @@
+:root {
+    color-scheme: dark light;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+button,
+.button {
+    padding: 0.5rem;
+    background-color: pink;
+    color: initial;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: none;
+}
+/* Utility Classes */
+.container {
+    max-width: 64rem;
+    margin-inline: auto;
+    padding-inline: 1.5rem;
+}
+
+.square {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+
+.flow > * + * {
+    margin-block-start: 1.5rem;
+}
+.section {
+    margin-block: 3rem;
+}
