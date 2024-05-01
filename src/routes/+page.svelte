@@ -9,7 +9,7 @@
 <div class="boxes">
     
     <div class="flow">
-        <img src="2-23-23.png" alt="placeholder">
+        <img src="/2-23-23.png" alt="placeholder">
         <div>
             <h3>Contact me!</h3>
         <div class="subheading"></div>
